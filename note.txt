@@ -1,0 +1,8 @@
+
+
+Data Resolution:
+	- control soln - data captured one seconds apart
+	- 10 mg soln - data captured 0.2 seconds apart
+	- 20 mg soln - data captured 0.2 seconds apart
+	- 100 mg soln - data captured 0.2 seconds apart
+	- 200 mg soln - data captured 0.2 seconds apart
